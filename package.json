@@ -1,0 +1,16 @@
+{
+  "name": "faceapi-js-boilerplate",
+  "version": "1.0.0",
+  "description": "Boilerplate code for training",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "author": "pilczuk",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.17.1",
+    "face-api.js": "^0.20.1",
+    "opn": "^6.0.0",
+    "request": "^2.88.0"
+  }
+}
